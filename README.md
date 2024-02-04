@@ -6,4 +6,4 @@ On commencera ainsi par la classification de trois drapeaux :
 
 •	Celui de la France 
 •	Celui de l’Espagne
-•	Celui de l’Allemagne 
+•	Celui de l’Italie 
